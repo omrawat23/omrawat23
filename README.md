@@ -6,7 +6,7 @@
 </head>
 <body>
   <a href="https://omrawat23.io" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" style="display: block; margin: 0 auto;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="4000" height="400" alt="MasterHead" style="display: block; margin: 0 auto;">
   </a>
 
   <h1 align="center">Hi 👋, I'm Om Rawat</h1>
@@ -14,8 +14,6 @@
   <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZsZ3A5aXBvam5oOGVpaDEzZzdhNDZ2dWJ6bTZyNWJubDIzbzdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrawat23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
-  <p align="left"> <a href="https://twitter.com/@0miii_29" target="blank"><img src="https://img.shields.io/twitter/follow/@0miii_29?logo=twitter&style=for-the-badge" alt="@0miii_29" /></a> </p>
 
   <ul>
     <li>🌱 I’m currently learning <strong>Next.js</strong></li>
