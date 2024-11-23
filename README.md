@@ -2,11 +2,11 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=omrawat23" alt="comming-soon-official"/> </div>
 
-### Check My Portfolio: omrawat.xyz
+### Check My Portfolio: [omrawat.xyz](https://omrawat.xyz/)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-😇 &nbsp; Me Engineer and a Developer also a Vulnerblity Tester <br/>
+😇 &nbsp; Me Engineer and a FullStack Developer.<br/>
 💡 &nbsp;I like to explore new technologies, learn new things about programming and Love to building projects. <br/>
 😍 &nbsp;Currently Software Engineer in testAing.com and learning new things along the way! <br/>
 🎵 &nbsp;Love Music! And Quote Writing<br/>
@@ -50,6 +50,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/omrawat23"><img src="https://img.shields.io/badge/himal-b-180b701a5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="omraw29@gmail.com"><img src="https://img.shields.io/badge/-himal9626@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/0miii.29"><img src="https://img.shields.io/badge/-@himal_official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omrawat23"><img src="https://img.shields.io/badge/omrawat23?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="omraw29@gmail.com"><img src="https://img.shields.io/badge/-omraw29@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/0miii.29"><img src="https://img.shields.io/badge/-@omrawat23F?style=flat&logo=Instagram&logoColor=white"/></a>
