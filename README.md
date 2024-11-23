@@ -1,8 +1,8 @@
-## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="30px"> Hey Dude It's Himal,
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="30px"> Hey Dude It's Om,
 
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=comming-soon-official" alt="comming-soon-official"/> </div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=omrawat23" alt="comming-soon-official"/> </div>
 
-### Check My Portfolio: https://himalportfolio.vercel.app/
+### Check My Portfolio: omrawat.xyz
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -42,14 +42,14 @@
 
 <p align="center">
 <a href="https://github.com/comming-soon-official">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=comming-soon-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=comming-soon-official&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omrawat23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omrawat23&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/himal-b-180b701a5/"><img src="https://img.shields.io/badge/himal-b-180b701a5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="himal9626@gmail.com"><img src="https://img.shields.io/badge/-himal9626@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/himal_official"><img src="https://img.shields.io/badge/-@himal_official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omrawat23"><img src="https://img.shields.io/badge/himal-b-180b701a5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="omraw29@gmail.com"><img src="https://img.shields.io/badge/-himal9626@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/0miii.29"><img src="https://img.shields.io/badge/-@himal_official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
