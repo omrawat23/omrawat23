@@ -12,9 +12,8 @@
 
 - 🚀 Full Stack Developer and Engineer
 - 💡 Passionate about exploring new technologies and building innovative projects
-- 👨🏻‍💻 Currently working as a Software Engineer at testAing.com
-- 🎵 Music enthusiast and quote writer
-- 🍫 Chocolate lover
+- 🎵 Music enthusiast and notion lover
+
 
 ### 🛠 Tech Stack
 
