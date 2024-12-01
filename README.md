@@ -12,7 +12,7 @@
 
 I'm a software developer who transforms caffeine into code and transforms wild ideas into even wilder applications! 
 
-> "Turning impossible into "I'm possible" - one line of code at a time!" 💃🏻🖥️
+> "Turning impossible into "I'm possible" - one line of code at a time!" ✨
 
 ### 🛠 Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
