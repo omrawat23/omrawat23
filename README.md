@@ -13,16 +13,14 @@
 </tr>
 </table>
 
-I build **high-craft interfaces, full-stack products, design systems, and reliable backend experiences.** <br>
-**Software Engineering Intern at [Largence](https://largence.com/)**, following **1+ year** as an **Operations Fellow** at **[Genius HRTech](https://www.geniushrtech.com/)** <br>
-**3× Hackathon winner** and **2× finalist** - including a production-ready **product shipped** in just **24 hours**
+I build full-stack web products — from Next.js apps to game-server tooling at Crux Informatics.** <br>
+**Software Engineering at [Crux](https://crux.tebex.io/)**<br>
 
 ### Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C/C++" />
 <img src="https://img.shields.io/badge/SQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="SQL" />
 <img src="https://img.shields.io/badge/HTML-161B22?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-161B22?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
