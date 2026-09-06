@@ -1,14 +1,14 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>Software Engineer / Design Engineer.
-</strong> Pixel-perfect products, built end to end.
+<strong>22, engineer. I like to build.
+</strong>
 </td>
 <td align="right">
-<a href="https://prathm.me/">Portfolio</a> |
-<a href="https://www.linkedin.com/in/prathamyadavv/">LinkedIn</a> |
-<a href="https://x.com/insanekrishnaa">X</a> |
-<a href="mailto:iiprathamyadav@gmail.com">Email</a>
+<a href="https://omrawat.in/">Portfolio</a> |
+<a href="https://www.linkedin.com/in/omrawat23/">LinkedIn</a> |
+<a href="https://x.com/omraw29">X</a> |
+<a href="mailto:omraw29@gmail.com">Email</a>
 </td>
 </tr>
 </table>
