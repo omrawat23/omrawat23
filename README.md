@@ -1,49 +1,49 @@
-<div align="center">
- <h1>
-   <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="30px">
-   Hey there! I'm Om 
- </h1>
- 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-omrawat.xyz-blue?style=for-the-badge)](https://omrawat.xyz/)
-  [![Profile Views](https://komarev.com/ghpvc/?username=omrawat23&style=for-the-badge)](https://github.com/omrawat23)
-</div>
+<table width="100%">
+<tr>
+<td align="left">
+<strong>Software Engineer / Design Engineer.
+</strong> Pixel-perfect products, built end to end.
+</td>
+<td align="right">
+<a href="https://prathm.me/">Portfolio</a> |
+<a href="https://www.linkedin.com/in/prathamyadavv/">LinkedIn</a> |
+<a href="https://x.com/insanekrishnaa">X</a> |
+<a href="mailto:iiprathamyadav@gmail.com">Email</a>
+</td>
+</tr>
+</table>
 
-## 🚀 About Me
+I build **high-craft interfaces, full-stack products, design systems, and reliable backend experiences.** <br>
+**Software Engineering Intern at [Largence](https://largence.com/)**, following **1+ year** as an **Operations Fellow** at **[Genius HRTech](https://www.geniushrtech.com/)** <br>
+**3× Hackathon winner** and **2× finalist** - including a production-ready **product shipped** in just **24 hours**
 
-I'm a software developer who transforms caffeine into code and transforms wild ideas into even wilder applications! 
+### Tech Stack
 
-> "Turning impossible into "I'm possible" - one line of code at a time!" ✨
-
-### 🛠 Technologies
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omrawat23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omrawat23&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
----
-
-<div align="center">
- 
- **Crafted with 💖, Powered by Caffeine, Debugging with Dad Jokes**
- 
- ![Visitor Count](https://profile-counter.glitch.me/omrawat23/count.svg)
-</div>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-161B22?style=flat&logo=cplusplus&logoColor=00599C" alt="C/C++" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML-161B22?style=flat&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-161B22?style=flat&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/React.js-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React.js" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=FFFFFF" alt="Express.js" />
+<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+<img src="https://img.shields.io/badge/Prisma-161B22?style=flat&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=flat&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Shadcn_UI-161B22?style=flat&logo=shadcnui&logoColor=FFFFFF" alt="Shadcn UI" />
+<img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+<img src="https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<img src="https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=F24E1E" alt="Figma" />
+</p>
